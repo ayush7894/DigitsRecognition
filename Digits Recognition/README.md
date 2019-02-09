@@ -1,7 +1,5 @@
 # Digit Recognition
-Handwritten Digit Recognition using OpenCV, sklearn and Python | [Video](https://www.youtube.com/watch?v=ur6JY2Hl-MM)
-
-**Check out the blog post [here](http://hanzratech.in/python/handwritten-digit-recognition-using-opencv-sklearn-and-python/) for complete notes on how the code works.**
+Handwritten Digit Recognition using OpenCV, sklearn and Python
 
 # Dependencies
 1. `cv2`
